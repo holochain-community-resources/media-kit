@@ -1,3 +1,3 @@
-# media-kit
+# Holochain Community media-kit
 
-This is an aggregation of materials to help Holochain communities.
+A community managed Holo & Holochain media-kit with logos, infographics, photos, etc.
